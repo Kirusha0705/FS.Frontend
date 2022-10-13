@@ -1,0 +1,16 @@
+body {
+	background:        #FAFAD2;
+}
+
+h1 {
+	text-align:        center;
+}
+
+nav {
+	text-align:        center;
+	background:        #000000;
+}
+nav a {
+	padding:           20px;
+	color:             #FFFFFF;
+}
